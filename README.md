@@ -1,3 +1,5 @@
 ### 👋 Hey there  哈囉　你好　こんにちは　안녕 !👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyhyun309&hide_rank=true&show_icons=true&theme=transparent)](https://github.com/tyhyun309/github-readme-stats)
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=tyhyun309&hide_rank=true&show_icons=true&theme=transparent" />
+
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyhyun309&layout=compact&theme=transparent" />
